@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author suman
- *
- */
-module SimpleHelloWorld {
-}
